@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 I'm Farah Fatima:
 -Biotechnology student.<br>-Learning Python for Bioinformatics.<br>-Exploring genomics, data analysis & computational biology. <br>-Working with NCBI, BLAST & sequence analysis tools.<br>-Strong foundation in molecular biology & genetics.<br>-Building projects and growing every day.
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/farah-fatima-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farahfatima163@gmail.com) 
 
 # 💻 Tech Stack:
